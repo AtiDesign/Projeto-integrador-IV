@@ -11,7 +11,7 @@
 // CONFIGURAÇÕES WI-FI
 // ============================================================================
 const char* ssid = "alienGame";
-const char* password = "2513vxbrasil";
+const char* password = "PASSWORD";
 
 // ============================================================================
 // CONFIGURAÇÕES DO SENSOR DHT11
