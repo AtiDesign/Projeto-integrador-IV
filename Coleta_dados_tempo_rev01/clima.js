@@ -1,6 +1,6 @@
 import fs from 'fs';
 const cidade = "Sao Jose dos Campos";
-const apiKey = "f57f7ae2c99f06ecdc28a1941c490675";
+const apiKey = "chave";
 const url = `https://api.openweathermap.org/data/2.5/forecast?q=${cidade}&appid=${apiKey}&units=metric&lang=pt_br`;
 
 const response = await fetch(url);
