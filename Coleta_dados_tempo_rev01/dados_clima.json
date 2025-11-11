@@ -1,0 +1,32 @@
+{
+    "cidade": "São José dos Campos",
+    "data": "2025-10-22",
+    "temperatura_minima": 21.3,
+    "temperatura_maxima": 22.2,
+    "condicao": "nuvens dispersas",
+    "chuva_mm": 0,
+    "vento_kmh": 8.9,
+    "umidade": 37,
+    "historico": {
+        "datas": [
+            "2025-10-22",
+            "2025-10-23",
+            "2025-10-24"
+        ],
+        "temperaturas_min": [
+            18.9,
+            11.0,
+            11.7
+        ],
+        "temperaturas_max": [
+            23.3,
+            27.5,
+            29.2
+        ]
+    },
+    "recomendacoes": [
+        "Boa condição para aplicação de defensivos.",
+        "Ideal para irrigação leve.",
+        "Temperatura ideal para germinação de sementes."
+    ]
+}

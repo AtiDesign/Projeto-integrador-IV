@@ -1,0 +1,28 @@
+body {
+            font-family: Arial, sans-serif;
+            background: #f0f4f8;
+            padding: 20px;
+        }
+.card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+        }
+.alert {
+            font-size: 16px;
+            margin-top: 10px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+.geada { background: #ffe0e0; color: #a00; }
+.calor { background: #fff0c2; color: #a60; }
+.chuva { background: #e0f0ff; color: #0077cc; }
