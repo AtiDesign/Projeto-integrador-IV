@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # 🔑 Sua chave da API OpenWeather
-API_KEY = "f57f7ae2c99f06ecdc28a1941c490675"
+API_KEY = "chave"
 CIDADE = "Sao Jose dos Campos"
 URL = f"https://api.openweathermap.org/data/2.5/forecast?q={CIDADE}&appid={API_KEY}&units=metric&lang=pt_br"
 
